@@ -2,7 +2,7 @@
 
 The images below were extracted from the team's May 2025 AquaFlush presentation (slides 6–7), not recreated or AI-generated. The photos document the exhibited prototype.
 
-Once the original image files have been uploaded to ``, the gallery can be rendered directly in the README.
+All five photographs are uploaded to the repository root and displayed in the [README gallery](../README.md#prototype-gallery).
 
 | Image filename | Description | Presentation slide |
 |---|---|---|
