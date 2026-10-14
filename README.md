@@ -95,15 +95,17 @@ See the [photo catalog](docs/PHOTO_GALLERY.md).
 
 ## Laboratory report
 
-📄 **[Read the AquaFlush Laboratory Report](AquaFlash%20Lab%20Report.pdf)** — report uploaded to this repository. The report documents the monitoring prototype and distinguishes implemented work from proposed automation.
+📄 **[View the laboratory report (PDF)](AquaFlash%20Lab%20Report.pdf)** · [Browse the Arduino source](AquaFlush_Original_Recovered.ino) · [See the prototype gallery](#prototype-gallery)
+
+The laboratory report covers the physical prototype and documented flow-monitoring functions. The report documents the monitoring prototype and distinguishes implemented work from proposed automation.
 
 ## Documentation
 
 - [Hardware/wiring notes](docs/HARDWARE.md)
 - [Prototype photo catalog](docs/PHOTO_GALLERY.md)
 - [Implementation vs. proposed features](docs/PROJECT_SCOPE.md)
-- Original presentation: *BCA144 AquaFlush*, May 2025 (presentation PDF can be added to `docs/` once reviewed for public release)
-- Prototype photographs: available in the presentation; standalone images can be added to `images/`
+- Original presentation: *BCA144 AquaFlush*, May 2025. Available as the source document; not yet uploaded to this repository.
+- Five original prototype photographs are embedded in the [gallery](#prototype-gallery) above.
 
 ## Safety
 
