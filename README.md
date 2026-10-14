@@ -93,6 +93,10 @@ These are original photographs from the team's May 2025 demonstration presentati
 
 See the [photo catalog](docs/PHOTO_GALLERY.md).
 
+## Laboratory report
+
+📄 **[Read the AquaFlush Laboratory Report](AquaFlash%20Lab%20Report.pdf)** — report uploaded to this repository. The report documents the monitoring prototype and distinguishes implemented work from proposed automation.
+
 ## Documentation
 
 - [Hardware/wiring notes](docs/HARDWARE.md)
