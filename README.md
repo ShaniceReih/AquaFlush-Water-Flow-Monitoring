@@ -63,6 +63,8 @@ To review in Arduino IDE:
 
 **Shanice Reih H. Tanque — Arduino programming, circuit wiring, and prototype construction.**
 
+**Dja-ver Q. Hassan — Arduino programming, circuit wiring, and prototype construction.**
+
 This is a group academic project; individual contribution details beyond the above have not been independently documented.
 
 ## Limitations and future development
