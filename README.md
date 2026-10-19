@@ -61,6 +61,12 @@ To review in Arduino IDE:
 
 **Project team:** Phoebien D. Cañete, Dja-ver Q. Hassan, Tristan E. Listanco, Mary Grace V. Soronio, and Shanice Reih H. Tanque (as listed on the project presentation).
 
+**Phoebien D. Cañete — Developed the Arduino code, connected the electronic components, and helped build the working prototype.**
+
+**Tristan E. Listanco — Arduino programming, circuit wiring, and prototype construction.**
+
+**Mary Grace V. Soronio — Arduino programming, circuit wiring, and prototype construction.**
+
 **Shanice Reih H. Tanque — Arduino programming, circuit wiring, and prototype construction.**
 
 **Dja-ver Q. Hassan — Arduino programming, circuit wiring, and prototype construction.**
